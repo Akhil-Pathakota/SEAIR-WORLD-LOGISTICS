@@ -1,0 +1,6 @@
+{
+  "name": "SEAIR WORLD LOGISTICS",
+  "description": "Official corporate web portal for SEAIR WORLD LOGISTICS - Reliable and Trusted Freight Forwarding & Customs Clearance Partner across India and Global Networks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
